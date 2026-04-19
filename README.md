@@ -10,7 +10,7 @@ Tech Virtual Assistant specializing in AI automation, workflow systems, and busi
 ### 1. AI Recruitment Automation System
 **AI-powered resume screening and candidate outreach system**
 
-→ [View Full Project](https://github.com/yourusername/ai-recruitment-automation-system)
+→ [View Full Project](https://github.com/MDanieechi14/ai-recruitment-automation-n8n.git)
 
 **Problem**: Manual resume screening is slow and inconsistent  
 **Solution**: Python + OpenAI backend deployed on Render that evaluates resumes, scores candidates, stores data, and generates email drafts  
@@ -30,4 +30,4 @@ Tech Virtual Assistant specializing in AI automation, workflow systems, and busi
 ---
 **Open to freelance projects and collaborations**  
 Location: Antipolo, Calabarzon, PH  
-[Email me](mailto:your.email@example.com)
+[Email me](mailto:marladaniella.baay@gmail.com)
