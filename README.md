@@ -47,7 +47,7 @@ Python • OpenAI API • Render • Google Sheets
 ### 2. TikTok Affiliate Content & Lead Automation Bot
 Telegram-based AI assistant for instant product input, content generation, and automatic data logging  
 
-🔗 https://github.com/MDanieechi14/tiktok-affiliate-telegram-content-bot  
+🔗 [https://github.com/MDanieechi14/tiktok-affiliate-telegram-content-bot](https://github.com/MDanieechi14/tiktok-affiliate-content-bot-n8n)  
 
 **Problem**  
 TikTok affiliates struggle with:
@@ -85,7 +85,7 @@ n8n • OpenAI / Groq • Telegram Bot API • Google Sheets
 ### 3. TikTok Affiliate Promo Generator (Bulk Automation)
 Automated daily content production pipeline for affiliate products  
 
-🔗 https://github.com/MDanieechi14/tiktok-affiliate-promo-generator-n8n  
+🔗 [https://github.com/MDanieechi14/tiktok-affiliate-promo-generator-n8n](https://github.com/MDanieechi14/tiktok-affiliate-promo-generator-n8n)  
 
 **Problem**  
 Affiliate creators need to produce multiple content pieces daily, which is time-consuming and difficult to scale.
