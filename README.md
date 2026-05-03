@@ -203,4 +203,3 @@ Open to:
 
 📩 Email: marladaniella.baay@gmail.com
 📍 Location: Antipolo, Philippines
-EOF
