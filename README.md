@@ -1,4 +1,3 @@
-cat > portfolio.md << 'EOF'
 # Marla Daniella – AI Automation & Workflow Systems Builder
 
 I design and deploy automation systems that eliminate repetitive work, reduce processing time, and improve business operations.
